@@ -26,6 +26,7 @@ if (!isset($_SESSION["login"])) {
 <th>Judul</th>
 <th>Tempat Tujuan</th>
 <th>Aksi</th>
+<th>Perubahan</th>
 </tr>
 
 <?php  
